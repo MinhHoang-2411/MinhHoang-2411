@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi there, I'm Minh Hoang 👋
 
-<!--
-**MinhHoang-2411/MinhHoang-2411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Frontend Developer | React.js & Next.js Specialist  
 
-Here are some ideas to get you started:
+💡 Passionate about building modern, scalable, and performant web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack:
+- **Frontend:** React.js, Next.js, TypeScript, TailwindCSS, Redux, Zustand
+- **Backend:** Node.js, Express.js
+- **Other:** Git, Vercel, Firebase
+
+---
+
+### 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/minh-hoang-fe-aa10b12a9/)
+[![Email](https://img.shields.io/badge/Email-Contact-green?style=flat&logo=gmail)](mailto:minhoang24fe.dev@gmail.com)
+
+---
+
+⭐️ From [Minh Hoang Front-end Developer](https://github.com/MinhHoang-2411)
