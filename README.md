@@ -7,8 +7,8 @@
 ---
 
 ### 🛠️ Tech Stack:
-- **Frontend:** React.js, Next.js, TypeScript, TailwindCSS, Redux, Zustand
-- **Backend:** Node.js, Express.js
+- **Frontend:** React.js, Vue.js, Next.js, NuxtJS, TypeScript, TailwindCSS, Redux, Zustand, Pinia
+- **Backend:** Node.js, Express.js, MongoDB
 - **Other:** Git, Vercel, Firebase
 
 ---
