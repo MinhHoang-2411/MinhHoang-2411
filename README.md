@@ -14,7 +14,7 @@
 ---
 
 ### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/minh-hoang-fe-aa10b12a9/)
+[![LinkedIn]](https://www.linkedin.com/in/minh-hoang-fe-aa10b12a9/)
 [![Email](https://img.shields.io/badge/Email-Contact-green?style=flat&logo=gmail)](mailto:minhoang24fe.dev@gmail.com)
 
 ---
